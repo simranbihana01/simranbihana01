@@ -8,7 +8,7 @@ I transform raw data into actionable insights that help businesses make better d
 * Analyzed sales, profit, and discount impact
 * Identified loss-making products and growth opportunities
 * Delivered actionable business recommendations
-🔗 View Project: https://github.com/simranbihana01/retail-sales-profit-analysis-dashboard
+🔗 View Project: https://github.com/simranbihana01/retail-sales-profit-analysis-powerbi
 ---
 ## 🛠 Skills
 * Power BI (Dashboarding, Data Modeling)
